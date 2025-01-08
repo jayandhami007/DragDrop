@@ -13,7 +13,13 @@
   align-items: center;
   justify-content: center;
 }
+h2{
+  margin-top: 1rem;
+  color: white;
+  text-align: center;
+}
 #left,
+#middle,
 #right {
   width: 300px;
   min-height: 400px;
